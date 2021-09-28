@@ -4,7 +4,7 @@ Starsystem is a plugin developed for StardustSMP
 This plugin was developed for minecraft 1.16.5 but it should work with most versions of the game
 
 ## How it works
-Players receive stars by boing online and by earning stars you both get a higher placement on the leaderboard and you also get a name color depending on the amount of stars you have
+Players receive stars by being online and by earning stars you both get a higher placement on the leaderboard and you also get a name color depending on the amount of stars you have
 
 ## Config
 You can edit the plugin config in plugins/StarSystem/config.yml
