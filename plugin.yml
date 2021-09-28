@@ -1,0 +1,5 @@
+main: net.zeeraa.starsystem.StarSystem
+name: StarSystem
+description: A playing that gives players stars for playing
+version: 1.0
+api-version: 1.13

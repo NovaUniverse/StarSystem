@@ -1,0 +1,8 @@
+# Time in minutes between each star
+time_between_stars: 20
+
+# Max amount of stars a player can gain from being logged in
+max_stars: 500
+
+# Set to false to disable name colors
+enable_name_color: true
